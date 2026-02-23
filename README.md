@@ -43,7 +43,7 @@ An example:
 ```
 const DB_ENDPOINT = "your URL here";
 ```
-**The purpose of the rest of the stage is to practice making requests for each type of action supported by the database: create, read, update, and delete. If you're feeling confident, work out the steps using the API DOCUMENTATION. Otherwise, follow the steps below.**
+**The purpose of the rest of the stage is to practice making requests for each type of action supported by the database: create, read, update, and delete. If you're feeling confident, work out the steps using the [API documentation](https://github.com/IM-WADD/GoogleSheetDB). Otherwise, follow the steps below.**
 
 ### Exercise 3.1: Read data
 1. Define an `async` function called `readData()` that has one parameter, `table`:
