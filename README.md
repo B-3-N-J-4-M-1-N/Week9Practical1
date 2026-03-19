@@ -1,4 +1,4 @@
-# Week 8 Practical 2: Working with the WADD remote database API
+# Week 9 Practical 1: Working with the WADD remote database API
 This practical will walk you through the steps required to create a remote database using Google Sheets and access it in a web project.
 
 **If you are planning to use a remote database in your assessment:** please ensure you complete this practical in full, including the extension stages. You must follow the exact steps described in stages 1 and 2 in your assessment. You can take a different approach to communicating with the database (i.e. you can design different functions), but the structure of the requests must match those in stage 3 below.
